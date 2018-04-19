@@ -1,0 +1,78 @@
+%% Creator: Inkscape inkscape 0.48.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'main_brd.eps' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{644.04bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.69517499)%
+    \put(0,0){\includegraphics[width=\unitlength]{main_brd.eps}}%
+    \put(0.93571393,0.05754239){\rotatebox{90}{\makebox(0,0)[lb]{\smash{NEbNEb-__-___U_U_OK_OKIRUCIRUCICURICURd_}}}}%
+    \put(0.71496056,0.07710018){\makebox(0,0)[lb]{\smash{vUvyUv-__NEb
+-#/m/S#34/imel
+II/+#64/_#}}}%
+    \put(0.92869418,0.61000497){\rotatebox{90}{\makebox(0,0)[lb]{\smash{=0}}}}%
+    \put(0.55286349,0.31215701){\makebox(0,0)[lb]{\smash{FXH}}}%
+    \put(0.8977194,0.12163623){\rotatebox{90}{\makebox(0,0)[lb]{\smash{OdGvyCNVv
+chc-}}}}%
+    \put(0.39836377,0.30696168){\rotatebox{90}{\makebox(0,0)[lb]{\smash{Odbe
+Odbi
+yi}}}}%
+    \put(0.49085492,0.20758586){\makebox(0,0)[lb]{\smash{yc}}}%
+    \put(0.51935625,0.00456587){\makebox(0,0)[lb]{\smash{yUv
+JNI}}}%
+    \put(0.82814142,0.5409223){\rotatebox{90}{\makebox(0,0)[lb]{\smash{l-
+_l
+_D}}}}%
+    \put(0.53891715,0.41881809){\makebox(0,0)[lb]{\smash{_L}}}%
+    \put(0.21411589,0.05699584){\rotatebox{90}{\makebox(0,0)[lb]{\smash{gvGn_yUv
+IUJacmGyltlt}}}}%
+    \put(0.48666263,0.1670713){\makebox(0,0)[lb]{\smash{aLK}}}%
+    \put(0.44167474,0.38640861){\rotatebox{90}{\makebox(0,0)[lb]{\smash{ihi#G
+mhe3G}}}}%
+    \put(0.53928824,0.45933265){\makebox(0,0)[lb]{\smash{mhe3G}}}%
+  \end{picture}%
+\endgroup%

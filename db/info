@@ -1,0 +1,19 @@
+server:        mouse.madl.ca
+	user: victor
+	document_root: /var/www
+
+phpmyadmin:    mouse.madl.ca/phpmyadmin
+	user:          victor
+	password:      Y36472aczdj4tLQC
+
+mysql:
+	user:	driver
+	pass: tqFj79hqzzChRb7R
+
+	@mousetrap.cas.mcmaster.ca
+	user: victor
+	pass: 3G5EG3JMUPZMShZZ
+
+web interface:
+	user: admin
+	pass:	yy8z85EeTSuh8zU7 
